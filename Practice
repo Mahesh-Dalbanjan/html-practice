@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>My First Page</title>
+</head>
+
+<body>
+   <h1>Hello HTML!</h1>
+   <h2>This is Sub heading. </h2>
+   <p>This is my first HTML document.</p>
+   
+   <hr>
+   <p><b>
+    The access to</b><br>
+   <i>the server will</i><br>
+    <u>be given sooner.</u><br>
+    <em>Emphasized text</em><br>
+    <strong> This is strong case.</strong>
+   </p>
+   <hr>
+
+   <h3> Technologies </h3>
+   <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+   </ul>
+
+   <hr> 
+
+   <h3> Used for </h3>
+    <ol> 
+        <li>Coding</li>
+        <li>Debugging</li>
+        <li>Creating</li>
+        <li>Enjoying</li>
+    </ol>
+
+    <hr> 
+
+    <a href="https://www.google.com" target="_blank">
+        Go to Google
+    </a>
+    <br>
+    <a href="https://www.instagram.com" target="_blank">
+        Go to Instagram
+    </a>
+    <br>
+    
+    <img src="Signature.jpg" alt="Sample Image">
+
+    
+
+</body>
+</html>
